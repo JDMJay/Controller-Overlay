@@ -198,18 +198,18 @@ background-position: 0 -70px;
 }
 
 .ds4 .stick {
-    position: abssolute;
+    position: absolute;
     background: url(fusionsticks.png);
     height: 94px;
     width: 94px;
 }
 
 .ds4 .stick.pressed.left {
-    background-position-x: -98px;
+    background-position-x: -92px;
 }
 
 .ds4 .stick.pressed.right {
-    background-position-x: -194px;
+    background-position-x: -192px;
 }
 
 .ds4 .stick.left {
